@@ -47,6 +47,16 @@ body {
     padding: 30px;
 }
 
+#myTitle {
+    color: #00b254;
+}
+
+#featuredProject {
+    color: #006660;
+    background: #00ff78;
+    padding: 30px;
+}
+
 #contact {
     background: #0096e0;
     color: #4a246a;
